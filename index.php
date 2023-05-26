@@ -113,9 +113,8 @@
       <div class="modal-footer">
         <button type="button" class=" btn btn-secondary" data-bs-dismiss="modal">Close</button>
         <button type="button" id="save" class="btn btn-primary">Save Info</button>
-        <button style="display:none" type="button" id=" updateinfo btn btn-info">Update</button>
-       
-       
+        <button style="display:none" id="updateinfo" class="btn btn-info">Update</button>
+
       </div>
     </div>
   </div>
