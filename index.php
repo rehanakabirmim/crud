@@ -13,10 +13,12 @@
 <div class="container">
     <div class="row mt-4">
         <div class="col-md-4 border border-info rounded p-3">
+
             <!--<div class="alert alert-success"><strong>Success:</strong>This is Message</div>
             <div class="alert alert-danger"><strong>Error:</strong>This is Error</div>-->
             <div class="msg"></div>
             <div class="form-group mt-3">
+              <h2 class="bg-info text-center">CRUD OPERATION</h2>
                 <label for="name">Name</label>
                 <input type="text" placeholder="Enter your name" class="form-control name">
             </div>
